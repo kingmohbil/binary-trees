@@ -1,0 +1,24 @@
+{
+  "name": "binary-trees",
+  "version": "1.0.0",
+  "description": "In this project i'm going to construct a balanced binary search tree using \r java script.",
+  "main": "tree.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "pretty":"prettier --write"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingmohbil/binary-trees.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kingmohbil/binary-trees/issues"
+  },
+  "homepage": "https://github.com/kingmohbil/binary-trees#readme",
+  "devDependencies": {
+    "prettier": "2.8.0"
+  }
+}
